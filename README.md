@@ -13,6 +13,10 @@
 - [Bottender](https://bottender.js.org/)
 - [Twitch IRC chatbot](https://dev.twitch.tv/docs/irc)
 - [vConsole](https://github.com/Tencent/vConsole)
+
+---
+
+- [Azure cognitive service](https://azure.microsoft.com/zh-tw/services/cognitive-services/)
 - [Dialogflow](https://cloud.google.com/dialogflow/docs)
 - [LUIS](https://www.luis.ai/)
 - [ArticutAPI (文截斷詞](https://github.com/Droidtown/ArticutAPI)
