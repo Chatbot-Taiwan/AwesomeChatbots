@@ -40,6 +40,11 @@
 - [line-bot-sdk-php](https://github.com/line/line-bot-sdk-php)
 - [NuGet Package -.net/ .netcore LINE Bot SDK](https://www.nuget.org/packages/LineBotSDK/)
 
+### Design tools
+
+- [Flex Message Simulator](https://developers.line.biz/flex-simulator/)
+- [LINE Bot Designer](https://developers.line.biz/zh-hant/services/bot-designer/)
+
 ### LIFF
 
 - [@line/liff](https://www.npmjs.com/package/@line/liff)
