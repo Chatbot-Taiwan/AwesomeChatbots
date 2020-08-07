@@ -14,14 +14,9 @@
 - [Twitch IRC chatbot](https://dev.twitch.tv/docs/irc)
 - [vConsole](https://github.com/Tencent/vConsole)
 
----
+## LINE
 
-- [Azure cognitive service](https://azure.microsoft.com/zh-tw/services/cognitive-services/)
-- [Dialogflow](https://cloud.google.com/dialogflow/docs)
-- [LUIS](https://www.luis.ai/)
-- [ArticutAPI (文截斷詞](https://github.com/Droidtown/ArticutAPI)
-
-## LINE SDK
+### SDK
 
 - [line-bot-sdk-python](https://github.com/line/line-bot-sdk-python)
 - [line-sdk-unity](https://github.com/line/line-sdk-unity)
@@ -38,8 +33,22 @@
 
 ### LIFF
 
+- [@line/liff](https://www.npmjs.com/package/@line/liff)
 - [liff-snippets](https://github.com/doggy8088/liff-snippets)
 - [vConsole-LIFF](https://github.com/polydice/vConsole-LIFF)
+
+### Notify
+
+- [lotify(Python)](https://github.com/louis70109/lotify)
+- [lotify(Ruby)](https://github.com/etrex/lotify)
+- [lotify(PHP)](https://github.com/eric0324/lotify)
+
+## AI 相關
+
+- [Azure cognitive service](https://azure.microsoft.com/zh-tw/services/cognitive-services/)
+- [Dialogflow](https://cloud.google.com/dialogflow/docs)
+- [LUIS](https://www.luis.ai/)
+- [ArticutAPI (文截斷詞](https://github.com/Droidtown/ArticutAPI)
 
 # 文章
 
