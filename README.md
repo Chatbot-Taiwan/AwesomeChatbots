@@ -1,22 +1,31 @@
-# 社群
+# Awesome Chatbot
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/louis70109/line-notify#contributing)
+
+# 社群(Community)
 
 - [Chatbot Developer Taiwan](https://www.facebook.com/groups/chatbot.tw)
 - [LINE Developers Group Taiwan](https://www.facebook.com/groups/linebot/)
 - [Facebook Developer Circle: Taipei](https://www.facebook.com/groups/DevCTaipei/)
 
-# 程式資源
+# 平台(Platform)
 
-- [LINE messaging API](https://developers.line.biz/en/docs/messaging-api/)
+- [LINE Messaging API](https://developers.line.biz/en/docs/messaging-api/)
 - [Facebook Messenger API](https://developers.facebook.com/docs/messenger-platform/reference/messenger-profile-api?locale=zh_TW)
 - [Slack API](https://api.slack.com/start)
-- [Offical API document](https://core.telegram.org/bots/api)
-- [Bottender](https://bottender.js.org/)
+- [Microsoft Bot Framework](https://dev.botframework.com/)
+- [Telegram API document](https://core.telegram.org/bots/api)
 - [Twitch IRC chatbot](https://dev.twitch.tv/docs/irc)
+
+# 開源專案(Open Source)
+
+- [Bottender](https://bottender.js.org/)
 - [vConsole](https://github.com/Tencent/vConsole)
 
 ## LINE
 
-### SDK
+### 套件(SDK)
 
 - [line-bot-sdk-python](https://github.com/line/line-bot-sdk-python)
 - [line-sdk-unity](https://github.com/line/line-sdk-unity)
@@ -45,14 +54,14 @@
 
 ## AI 相關
 
-- [Azure cognitive service](https://azure.microsoft.com/zh-tw/services/cognitive-services/)
+- [Azure Cognitive Service](https://azure.microsoft.com/zh-tw/services/cognitive-services/)
 - [Dialogflow](https://cloud.google.com/dialogflow/docs)
 - [LUIS](https://www.luis.ai/)
-- [ArticutAPI (文截斷詞](https://github.com/Droidtown/ArticutAPI)
+- [ArticutAPI (文截斷詞)](https://github.com/Droidtown/ArticutAPI)
 
-# 文章
+# 文章(Articles)
 
-## 鐵人賽
+## 鐵人賽(IronMan)
 
 - [只要有心，人人都可以做卡米狗 系列](https://ithelp.ithome.com.tw/users/20107309/ironman/1253)
 - [使用 Modern Web 技術來打造 Chat App 系列](https://ithelp.ithome.com.tw/users/20103630/ironman/2798)
@@ -66,6 +75,7 @@
 
 # 書籍
 
+- [人人可作卡米狗：從零打造自己的 LINE 聊天機器人](https://www.tenlong.com.tw/products/9789864342938?list_name=srh)
 - [LINE Bot 與人工智慧辨識開發實戰｜使用 C# 與 Azure Cognitive Services](https://www.tenlong.com.tw/products/9789865022662)
 - [Line Bot 對談機器人 & 人工智慧辨識 開發實戰](https://www.pubu.com.tw/ebook/103305)
 
@@ -74,10 +84,6 @@
 - [Ngrok](https://ngrok.com/)
 - [Servo](https://servo.org/zh-TW/)
 - [localtunnel](https://github.com/localtunnel/localtunnel)
-
-# 課程
-
-- [LINE Bot 對談機器人開發立即上手](https://www.udemy.com/line-bot)
 
 # Video
 
