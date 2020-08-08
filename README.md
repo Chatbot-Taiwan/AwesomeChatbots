@@ -79,6 +79,7 @@
 - [lotify(Python)](https://github.com/louis70109/lotify)
 - [lotify(Ruby)](https://github.com/etrex/lotify)
 - [lotify(PHP)](https://github.com/eric0324/lotify)
+- [line-notify-sdk-nodejs](https://github.com/yiyu0x/line-notify-sdk-nodejs)
 
 ## Discord
 
