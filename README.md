@@ -80,6 +80,10 @@
 - [lotify(Ruby)](https://github.com/etrex/lotify)
 - [lotify(PHP)](https://github.com/eric0324/lotify)
 
+## Discord
+
+- [discord.js](https://discord.js.org/#/)
+
 ## AI 相關
 
 - [Azure Cognitive Service](https://azure.microsoft.com/zh-tw/services/cognitive-services/)
