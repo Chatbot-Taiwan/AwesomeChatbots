@@ -28,6 +28,8 @@
 - [卡米狗](https://line.me/R/ti/p/%40aab8659n)
 - [Steam 查價](https://line.me/R/ti/p/%40504mcsmm)
   - [GitHub](https://github.com/rogeraabbccdd/Linebot-Deals)
+- [財哥...檳語...](https://line.me/R/ti/p/%40504mcsmm)
+  - [GitHub](https://github.com/rogeraabbccdd/Linebot-Zack)
 
 ## Facebook
 
