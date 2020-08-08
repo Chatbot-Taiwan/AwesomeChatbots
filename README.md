@@ -26,6 +26,10 @@
 - [圖奇獸](https://line.me/R/ti/p/%40eae1476b)
   - [GitHub](https://github.com/louis70109/Twitch-Bot)
 - [卡米狗](https://line.me/R/ti/p/%40aab8659n)
+- [Steam 查價](https://line.me/R/ti/p/%40504mcsmm)
+  - [GitHub](https://github.com/rogeraabbccdd/Linebot-Deals)
+- [財哥...檳語...](https://line.me/R/ti/p/%40504mcsmm)
+  - [GitHub](https://github.com/rogeraabbccdd/Linebot-Zack)
 
 ## Facebook
 
@@ -33,6 +37,10 @@
 
 ## Discord
 
+- [Steam 查價](https://discordapp.com/oauth2/authorize?client_id=634902541687324702&scope=bot&permissions=28832)
+  - [GitHub](https://github.com/rogeraabbccdd/Discordbot-Deals)
+- [財哥...檳語...](https://discord.com/oauth2/authorize?client_id=602028564333723648&scope=bot&permissions=387136)
+  - [GitHub](https://github.com/rogeraabbccdd/Discordbot-Zack)
 # 開源專案(Open Source)
 
 - [Bottender](https://bottender.js.org/)
@@ -71,6 +79,10 @@
 - [lotify(Python)](https://github.com/louis70109/lotify)
 - [lotify(Ruby)](https://github.com/etrex/lotify)
 - [lotify(PHP)](https://github.com/eric0324/lotify)
+
+## Discord
+
+- [discord.js](https://discord.js.org/#/)
 
 ## AI 相關
 
