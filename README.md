@@ -37,6 +37,9 @@
 
 ## Discord
 
+- [Steam 查價](https://discordapp.com/oauth2/authorize?client_id=634902541687324702&scope=bot&permissions=28832)
+  - [GitHub](https://github.com/rogeraabbccdd/Discordbot-Deals)
+
 # 開源專案(Open Source)
 
 - [Bottender](https://bottender.js.org/)
