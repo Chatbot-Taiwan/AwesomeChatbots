@@ -17,6 +17,7 @@
 - [Microsoft Bot Framework](https://dev.botframework.com/)
 - [Telegram API document](https://core.telegram.org/bots/api)
 - [Twitch IRC chatbot](https://dev.twitch.tv/docs/irc)
+- [Discord](https://discord.com/developers/docs/intro)
 
 # 開源專案(Open Source)
 
