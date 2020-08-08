@@ -39,7 +39,8 @@
 
 - [Steam 查價](https://discordapp.com/oauth2/authorize?client_id=634902541687324702&scope=bot&permissions=28832)
   - [GitHub](https://github.com/rogeraabbccdd/Discordbot-Deals)
-
+- [財哥...檳語...](https://discord.com/oauth2/authorize?client_id=602028564333723648&scope=bot&permissions=387136)
+  - [GitHub](https://github.com/rogeraabbccdd/Discordbot-Zack)
 # 開源專案(Open Source)
 
 - [Bottender](https://bottender.js.org/)
