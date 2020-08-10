@@ -30,6 +30,9 @@
   - [GitHub](https://github.com/rogeraabbccdd/Linebot-Deals)
 - [財哥...檳語...](https://line.me/R/ti/p/%40504mcsmm)
   - [GitHub](https://github.com/rogeraabbccdd/Linebot-Zack)
+- [Flex 開發人員工具](https://line.me/R/ti/p/%40736cebrk)
+  - [介紹文章](https://taichunmin.idv.tw/blog/2020-04-06-line-devbot.html)
+  - [GitHub](https://github.com/taichunmin/gcf-line-devbot)
 
 ## Facebook
 
@@ -41,6 +44,7 @@
   - [GitHub](https://github.com/rogeraabbccdd/Discordbot-Deals)
 - [財哥...檳語...](https://discord.com/oauth2/authorize?client_id=602028564333723648&scope=bot&permissions=387136)
   - [GitHub](https://github.com/rogeraabbccdd/Discordbot-Zack)
+
 # 開源專案(Open Source)
 
 - [Bottender](https://bottender.js.org/)
