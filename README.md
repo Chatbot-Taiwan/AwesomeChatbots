@@ -30,6 +30,8 @@
   - [GitHub](https://github.com/rogeraabbccdd/Linebot-Deals)
 - [財哥...檳語...](https://line.me/R/ti/p/%40504mcsmm)
   - [GitHub](https://github.com/rogeraabbccdd/Linebot-Zack)
+- [AnimeBot](https://line.me/R/ti/p/%40783mjfrr)
+  - [GitHub](https://github.com/davidleitw/AnimeBot) 
 - [Flex 開發人員工具](https://line.me/R/ti/p/%40736cebrk)
   - [介紹文章](https://taichunmin.idv.tw/blog/2020-04-06-line-devbot.html)
   - [GitHub](https://github.com/taichunmin/gcf-line-devbot)
