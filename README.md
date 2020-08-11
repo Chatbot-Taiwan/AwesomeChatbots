@@ -31,10 +31,17 @@
 - [財哥...檳語...](https://line.me/R/ti/p/%40504mcsmm)
   - [GitHub](https://github.com/rogeraabbccdd/Linebot-Zack)
 - [AnimeBot](https://line.me/R/ti/p/%40783mjfrr)
-  - [GitHub](https://github.com/davidleitw/AnimeBot) 
+  - [GitHub](https://github.com/davidleitw/AnimeBot)
 - [Flex 開發人員工具](https://line.me/R/ti/p/%40736cebrk)
   - [介紹文章](https://taichunmin.idv.tw/blog/2020-04-06-line-devbot.html)
   - [GitHub](https://github.com/taichunmin/gcf-line-devbot)
+- 午餐隊長 Leader of Lunch
+  - [GitHub](https://github.com/louis70109/AwesomeChatbots.git)
+- [趨勢科技防詐達人](https://line.me/R/ti/p/%40dr.message)
+- [彰化旅行+](https://line.me/R/ti/p/%40640iohng)
+- [農家樂計算機]
+  - [介紹文章](https://medium.com/@EtrexKuo/line-bot-%E8%BE%B2%E5%AE%B6%E6%A8%82%E8%A8%88%E7%AE%97%E6%A9%9F-c0450b5aca3f)
+  - [GiHub](https://github.com/Yoctol/agricola-score)
 
 ## Facebook
 
