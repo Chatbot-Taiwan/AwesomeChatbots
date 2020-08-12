@@ -8,6 +8,7 @@
 - [Chatbot Developer Taiwan](https://www.facebook.com/groups/chatbot.tw)
 - [LINE Developers Group Taiwan](https://www.facebook.com/groups/linebot/)
 - [Facebook Developer Circle: Taipei](https://www.facebook.com/groups/DevCTaipei/)
+- [Telegram 機器人應用交流 Bot Discuss](https://t.me/joinchat/Bosd1z3ENpG7cPjLw3qmYQ)
 
 # 平台(Platform)
 
