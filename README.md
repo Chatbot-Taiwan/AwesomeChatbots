@@ -43,6 +43,8 @@
 - [農家樂計算機]
   - [介紹文章](https://medium.com/@EtrexKuo/line-bot-%E8%BE%B2%E5%AE%B6%E6%A8%82%E8%A8%88%E7%AE%97%E6%A9%9F-c0450b5aca3f)
   - [GiHub](https://github.com/Yoctol/agricola-score)
+- [待辦小精靈](https://line.me/R/ti/p/%40252ifirk)
+  - [介紹文章](https://medium.com/elfkd)
 
 ## Facebook
 
