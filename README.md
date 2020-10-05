@@ -106,6 +106,7 @@
 ## Discord
 
 - [discord.js](https://discord.js.org/#/)
+- [discord.py](https://discordpy.readthedocs.io/en/latest/index.html)
 
 ## AI 相關
 
