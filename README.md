@@ -46,6 +46,8 @@
   - [GiHub](https://github.com/Yoctol/agricola-score)
 - [待辦小精靈](https://line.me/R/ti/p/%40252ifirk)
   - [介紹文章](https://medium.com/elfkd)
+- kiwawa
+  - [GitHub](https://github.com/CA-Lee/kiwawa)
 
 ## Facebook
 
@@ -57,6 +59,8 @@
   - [GitHub](https://github.com/rogeraabbccdd/Discordbot-Deals)
 - [財哥...檳語...](https://discord.com/oauth2/authorize?client_id=602028564333723648&scope=bot&permissions=387136)
   - [GitHub](https://github.com/rogeraabbccdd/Discordbot-Zack)
+- kiwawa
+  - [GitHub](https://github.com/CA-Lee/kiwawa)
 
 # 開源專案(Open Source)
 
