@@ -136,6 +136,7 @@
 - [在 LINE Chatbot 中串接 Google Analytics](https://hackmd.io/@taichunmin/slide-coscup-2020?fbclid=IwAR3KoozsbjpRk_MxUcZDvwQKlqfxOZNNhNxw3t-O99zuLsT5FAjdA7_9KsU)
 - [LINE Bot 設計模式](https://docs.google.com/presentation/d/1PlUMItXtx3vTRa2US1kE1-Nr11GwqIePQoBN7IeptHE/edit#slide=id.p)
 - [Hand-On Labs - LineBotSDK 實作手札](https://github.com/isdaviddong/HOL-LineBotSDK)
+- [How to Develop a LINE Chatbot in a Decentralized Way](https://diode.io/diode/How-Diode-Allows-Engineers-to-Develop-LINE-Chatbots-in-a-Decentralized-Way-20252/)
 
 # 書籍
 
