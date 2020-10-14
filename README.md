@@ -128,6 +128,7 @@
 - [一步步帶你了解 AWS & LINE API 並使用 Serverless 介接的各種應用 系列](https://nijialin.com/2019/10/20/%E9%90%B5%E4%BA%BA%E8%B3%BD-%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8/)
 - [每天五分鐘 LINE API 輕鬆上手 系列](https://ithelp.ithome.com.tw/users/20111805/ironman/2199)
 - [從 LINE BOT 到資料視覺化：賴田捕手 系列](https://ithelp.ithome.com.tw/users/20120178/ironman/2654)
+- [如何透過-diode-network-開發-line-聊天機器人 - 中文](https://medium.com/@sc0vu/%E5%A6%82%E4%BD%95%E9%80%8F%E9%81%8E-diode-network-%E9%96%8B%E7%99%BC-line-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-35be8e5e6a52)
 
 ## LINE
 
@@ -149,6 +150,7 @@
 - [Servo](https://servo.org/zh-TW/)
 - [localtunnel](https://github.com/localtunnel/localtunnel)
 - [docker-serveo](https://github.com/taichunmin/docker-serveo)
+- [DiodeCli](https://diode.io/)
 
 # Video
 
