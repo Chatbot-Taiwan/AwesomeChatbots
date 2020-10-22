@@ -130,6 +130,7 @@
 - [從 LINE BOT 到資料視覺化：賴田捕手 系列](https://ithelp.ithome.com.tw/users/20120178/ironman/2654)
 - [如何透過-diode-network-開發-line-聊天機器人 - 中文](https://medium.com/@sc0vu/%E5%A6%82%E4%BD%95%E9%80%8F%E9%81%8E-diode-network-%E9%96%8B%E7%99%BC-line-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-35be8e5e6a52)
 - [用Line聊天機器人串起多媒體系統 系列](https://ithelp.ithome.com.tw/users/20121130/ironman/3131)
+- [宅男的浪漫 - 用 .NET Core 打造 Line 婚禮聊天機器人經驗分享](https://reurl.cc/GraXX3)
 
 ## LINE
 
