@@ -48,6 +48,8 @@
   - [介紹文章](https://medium.com/elfkd)
 - kiwawa
   - [GitHub](https://github.com/CA-Lee/kiwawa)
+- 易RP
+  - [GitHub](https://github.com/rogeraabbccdd/line-erp)
 
 ## Facebook
 
@@ -84,6 +86,7 @@
 - [line-bot-sdk-php](https://github.com/line/line-bot-sdk-php)
 - [NuGet Package -.net/ .netcore LINE Bot SDK](https://www.nuget.org/packages/LineBotSDK/)
 - [line-bot-sdk-haskell](https://github.com/moleike/line-bot-sdk)
+- [linebot](https://github.com/boybundit/linebot)
 
 ### Design tools
 
