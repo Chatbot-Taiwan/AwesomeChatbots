@@ -131,7 +131,7 @@
 - [使用 Modern Web 技術來打造 Chat App 系列 ](https://ithelp.ithome.com.tw/users/20103630/ironman/2798)
   - [Use Modern Web technology to built Chat APP. series](https://ithelp.ithome.com.tw/users/20103630/ironman/2798)
 - [一步步帶你了解 AWS & LINE API 並使用 Serverless 介接的各種應用 系列 ](https://nijialin.com/2019/10/20/%E9%90%B5%E4%BA%BA%E8%B3%BD-%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8/)
-  - [ Step by step, walk you through AWS & LINE API and the application usage of Serverless API. series](https://nijialin.com/2019/10/20/%E9%90%B5%E4%BA%BA%E8%B3%BD-%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8/)
+  - [ Step by step, walk you through AWS & LINE API to the application usage of Serverless API. series](https://nijialin.com/2019/10/20/%E9%90%B5%E4%BA%BA%E8%B3%BD-%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8/)
 - [每天五分鐘 LINE API 輕鬆上手 系列](https://ithelp.ithome.com.tw/users/20111805/ironman/2199)
   - [Five minutes a day. LINE API in your grasp. series](https://ithelp.ithome.com.tw/users/20111805/ironman/2199)
 - [從 LINE BOT 到資料視覺化：賴田捕手 系列](https://ithelp.ithome.com.tw/users/20120178/ironman/2654)
