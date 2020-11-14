@@ -24,27 +24,27 @@
 
 ## LINE
 
-- [圖奇獸 (Twitch Bot)](https://line.me/R/ti/p/%40eae1476b)
+- [圖奇獸 Twitch Bot](https://line.me/R/ti/p/%40eae1476b)
   - [GitHub](https://github.com/louis70109/Twitch-Bot)
 - [卡米狗](https://line.me/R/ti/p/%40aab8659n)
   - [介紹網站](https://www.kamigo.tw/)
-- [Steam 查價 (Deals Line Bot)](https://line.me/R/ti/p/%40504mcsmm)
+- [Steam 查價 Deals Line Bot](https://line.me/R/ti/p/%40504mcsmm)
   - [GitHub](https://github.com/rogeraabbccdd/Linebot-Deals)
 - [財哥...檳語...](https://line.me/R/ti/p/%40504mcsmm)
   - [GitHub](https://github.com/rogeraabbccdd/Linebot-Zack)
 - [AnimeBot](https://line.me/R/ti/p/%40783mjfrr)
   - [GitHub](https://github.com/davidleitw/AnimeBot)
-- [Flex 開發人員工具 (LINE Flex Message Developer Tool)](https://line.me/R/ti/p/%40736cebrk)
+- [Flex 開發人員工具 LINE Flex Message Developer Tool](https://line.me/R/ti/p/%40736cebrk)
   - [介紹文章](https://taichunmin.idv.tw/blog/2020-04-06-line-devbot.html)
   - [GitHub](https://github.com/taichunmin/gcf-line-devbot)
 - 午餐隊長 Leader of Lunch
   - [GitHub](https://github.com/louis70109/AwesomeChatbots.git)
-- [趨勢科技防詐達人 (TREND MICRO Anti-Fraud Expert)](https://line.me/R/ti/p/%40dr.message)
-- [彰化旅行+ (Changhua Travel Plus)](https://line.me/R/ti/p/%40640iohng)
-- 農家樂計算機 (Farmhouse Calculator)
+- [趨勢科技防詐達人 TREND MICRO Anti-Fraud Expert](https://line.me/R/ti/p/%40dr.message)
+- [彰化旅行+ Changhua Travel Plus](https://line.me/R/ti/p/%40640iohng)
+- 農家樂計算機 Farmhouse Calculator
   - [介紹文章](https://medium.com/@EtrexKuo/line-bot-%E8%BE%B2%E5%AE%B6%E6%A8%82%E8%A8%88%E7%AE%97%E6%A9%9F-c0450b5aca3f)
   - [GiHub](https://github.com/Yoctol/agricola-score)
-- [待辦小精靈 (TO-DO List Genie)](https://line.me/R/ti/p/%40252ifirk)
+- [待辦小精靈 To-Do List Genie](https://line.me/R/ti/p/%40252ifirk)
   - [介紹文章](https://medium.com/elfkd)
 - kiwawa
   - [GitHub](https://github.com/CA-Lee/kiwawa)
@@ -57,7 +57,7 @@
 
 ## Discord
 
-- [Steam 查價 (Deals Line Bot)](https://discordapp.com/oauth2/authorize?client_id=634902541687324702&scope=bot&permissions=28832)
+- [Steam 查價 Deals Line Bot](https://discordapp.com/oauth2/authorize?client_id=634902541687324702&scope=bot&permissions=28832)
   - [GitHub](https://github.com/rogeraabbccdd/Discordbot-Deals)
 - [財哥...檳語...](https://discord.com/oauth2/authorize?client_id=602028564333723648&scope=bot&permissions=387136)
   - [GitHub](https://github.com/rogeraabbccdd/Discordbot-Zack)
@@ -154,9 +154,13 @@
 # 書籍
 
 - [人人可作卡米狗：從零打造自己的 LINE 聊天機器人](https://www.tenlong.com.tw/products/9789864342938?list_name=srh)
+  - [Everyone can built a 卡米狗: Built your own LINE Chatbot from scratch.](https://www.tenlong.com.tw/products/9789864342938?list_name=srh)
 - [LINE Bot 與人工智慧辨識開發實戰｜使用 C# 與 Azure Cognitive Services](https://www.tenlong.com.tw/products/9789865022662)
+  - [Develope combat of LINE Bot and Artificial Intelligence Rekognition. | Use C# and Azure Cognitive Services](https://www.tenlong.com.tw/products/9789865022662)
 - [Line Bot 對談機器人 & 人工智慧辨識 開發實戰](https://www.pubu.com.tw/ebook/103305)
+  - [Develope combat of LINE bot conversation Chatbot & Artificial Intelligence Rekognition](https://www.pubu.com.tw/ebook/103305)
 - [打造股市小秘書｜聊天機器人 x 網路爬蟲 x NoSQLxPython 整合應用實務](http://books.gotop.com.tw/v_ACN034300)
+  - [Built a stick secretary. | Chatbot x Web Crawler & NoSQL x Python combined application in practice.](http://books.gotop.com.tw/v_ACN034300)
 
 # Public URLs
 
@@ -169,6 +173,10 @@
 # Video
 
 - [在命令列發送 JSON 格式的 LINE 訊息](https://youtu.be/-B4GhMpMJuY)
+  - [Sent a JSON form LINE message from Command Prompt.](https://youtu.be/-B4GhMpMJuY)
 - [用 dotnet core 以命令列在跨平台環境下發送 LINE 訊息](https://youtu.be/KZZLMzd2CZo)
+  - [Use dotnet core to sent LINE message from Command Prompt under mutiplatform environment.](https://youtu.be/KZZLMzd2CZo)
 - [使用.netcore 以 push 方式傳送訊息](https://youtu.be/5jsbXrw1U4w)
+  - [Use .netcore to sent message through push.](https://youtu.be/5jsbXrw1U4w)
 - [使用 net core 開發 LINE Bot](https://youtu.be/4sQXk1e02t8)
+  - [Use net core to develope LINE Bot](https://youtu.be/4sQXk1e02t8)
