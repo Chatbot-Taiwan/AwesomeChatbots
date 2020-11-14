@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/louis70109/line-notify#contributing)
-[![English](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Chatbot-Taiwan/AwesomeChatbots/blob/master/README.md)
+[![English](https://img.shields.io/badge/README-EN-green)](https://github.com/Chatbot-Taiwan/AwesomeChatbots/blob/master/README.md)
 
 # 社群(Community)
 
