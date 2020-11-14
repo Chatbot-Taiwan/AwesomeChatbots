@@ -24,27 +24,27 @@
 
 ## LINE
 
-- [圖奇獸](https://line.me/R/ti/p/%40eae1476b)
+- [圖奇獸 (Twitch Bot)](https://line.me/R/ti/p/%40eae1476b)
   - [GitHub](https://github.com/louis70109/Twitch-Bot)
 - [卡米狗](https://line.me/R/ti/p/%40aab8659n)
   - [介紹網站](https://www.kamigo.tw/)
-- [Steam 查價](https://line.me/R/ti/p/%40504mcsmm)
+- [Steam 查價 (Deals Line Bot)](https://line.me/R/ti/p/%40504mcsmm)
   - [GitHub](https://github.com/rogeraabbccdd/Linebot-Deals)
 - [財哥...檳語...](https://line.me/R/ti/p/%40504mcsmm)
   - [GitHub](https://github.com/rogeraabbccdd/Linebot-Zack)
 - [AnimeBot](https://line.me/R/ti/p/%40783mjfrr)
   - [GitHub](https://github.com/davidleitw/AnimeBot)
-- [Flex 開發人員工具](https://line.me/R/ti/p/%40736cebrk)
+- [Flex 開發人員工具 (LINE Flex Message Developer Tool)](https://line.me/R/ti/p/%40736cebrk)
   - [介紹文章](https://taichunmin.idv.tw/blog/2020-04-06-line-devbot.html)
   - [GitHub](https://github.com/taichunmin/gcf-line-devbot)
 - 午餐隊長 Leader of Lunch
   - [GitHub](https://github.com/louis70109/AwesomeChatbots.git)
-- [趨勢科技防詐達人](https://line.me/R/ti/p/%40dr.message)
-- [彰化旅行+](https://line.me/R/ti/p/%40640iohng)
-- 農家樂計算機
+- [趨勢科技防詐達人 (TREND MICRO Anti-Fraud Expert)](https://line.me/R/ti/p/%40dr.message)
+- [彰化旅行+ (Changhua Travel Plus)](https://line.me/R/ti/p/%40640iohng)
+- 農家樂計算機 (Farmhouse Calculator)
   - [介紹文章](https://medium.com/@EtrexKuo/line-bot-%E8%BE%B2%E5%AE%B6%E6%A8%82%E8%A8%88%E7%AE%97%E6%A9%9F-c0450b5aca3f)
   - [GiHub](https://github.com/Yoctol/agricola-score)
-- [待辦小精靈](https://line.me/R/ti/p/%40252ifirk)
+- [待辦小精靈 (TO-DO List Genie)](https://line.me/R/ti/p/%40252ifirk)
   - [介紹文章](https://medium.com/elfkd)
 - kiwawa
   - [GitHub](https://github.com/CA-Lee/kiwawa)
@@ -57,7 +57,7 @@
 
 ## Discord
 
-- [Steam 查價](https://discordapp.com/oauth2/authorize?client_id=634902541687324702&scope=bot&permissions=28832)
+- [Steam 查價 (Deals Line Bot)](https://discordapp.com/oauth2/authorize?client_id=634902541687324702&scope=bot&permissions=28832)
   - [GitHub](https://github.com/rogeraabbccdd/Discordbot-Deals)
 - [財哥...檳語...](https://discord.com/oauth2/authorize?client_id=602028564333723648&scope=bot&permissions=387136)
   - [GitHub](https://github.com/rogeraabbccdd/Discordbot-Zack)
@@ -115,7 +115,7 @@
 - [discord.js](https://discord.js.org/#/)
 - [discord.py](https://discordpy.readthedocs.io/en/latest/index.html)
 
-## AI 相關
+## AI 相關 (Artificial Intelligence Realted)
 
 - [Azure Cognitive Service](https://azure.microsoft.com/zh-tw/services/cognitive-services/)
 - [Dialogflow](https://cloud.google.com/dialogflow/docs)
@@ -126,14 +126,22 @@
 
 ## 鐵人賽(IronMan)
 
-- [只要有心，人人都可以做卡米狗 系列](https://ithelp.ithome.com.tw/users/20107309/ironman/1253)
-- [使用 Modern Web 技術來打造 Chat App 系列](https://ithelp.ithome.com.tw/users/20103630/ironman/2798)
-- [一步步帶你了解 AWS & LINE API 並使用 Serverless 介接的各種應用 系列](https://nijialin.com/2019/10/20/%E9%90%B5%E4%BA%BA%E8%B3%BD-%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8/)
+- [只要有心，人人都可以做卡米狗 系列 ](https://ithelp.ithome.com.tw/users/20107309/ironman/1253)
+  - [Everyone can built a 卡米狗, if one determained. series](https://ithelp.ithome.com.tw/users/20107309/ironman/1253)
+- [使用 Modern Web 技術來打造 Chat App 系列 ](https://ithelp.ithome.com.tw/users/20103630/ironman/2798)
+  - [Use Modern Web technology to built Chat APP. series](https://ithelp.ithome.com.tw/users/20103630/ironman/2798)
+- [一步步帶你了解 AWS & LINE API 並使用 Serverless 介接的各種應用 系列 ](https://nijialin.com/2019/10/20/%E9%90%B5%E4%BA%BA%E8%B3%BD-%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8/)
+  - [ Step by step, walk you through AWS & LINE API and the application usage of Serverless. series](https://nijialin.com/2019/10/20/%E9%90%B5%E4%BA%BA%E8%B3%BD-%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8/)
 - [每天五分鐘 LINE API 輕鬆上手 系列](https://ithelp.ithome.com.tw/users/20111805/ironman/2199)
+  - [Five minutes a day. LINE API in your grasp. series](https://ithelp.ithome.com.tw/users/20111805/ironman/2199)
 - [從 LINE BOT 到資料視覺化：賴田捕手 系列](https://ithelp.ithome.com.tw/users/20120178/ironman/2654)
+  - [From LINE BOT to data visualization: 賴田捕手. series](https://ithelp.ithome.com.tw/users/20120178/ironman/2654)
 - [如何透過-diode-network-開發-line-聊天機器人 - 中文](https://medium.com/@sc0vu/%E5%A6%82%E4%BD%95%E9%80%8F%E9%81%8E-diode-network-%E9%96%8B%E7%99%BC-line-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-35be8e5e6a52)
+  - [How to use diode network to develope LINE Chatbot ? in chinese](https://medium.com/@sc0vu/%E5%A6%82%E4%BD%95%E9%80%8F%E9%81%8E-diode-network-%E9%96%8B%E7%99%BC-line-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-35be8e5e6a52)
 - [用Line聊天機器人串起多媒體系統 系列](https://ithelp.ithome.com.tw/users/20121130/ironman/3131)
+  - [Use LINE Chatbot to link Multimedia Systems. series](https://ithelp.ithome.com.tw/users/20121130/ironman/3131)
 - [宅男的浪漫 - 用 .NET Core 打造 Line 婚禮聊天機器人經驗分享](https://reurl.cc/GraXX3)
+  - [A indoor guy's romance - Use .NET Core to built LINE Wedding Chatbot experience sharing.](https://reurl.cc/GraXX3)
 
 ## LINE
 
