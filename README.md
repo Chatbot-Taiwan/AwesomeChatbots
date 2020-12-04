@@ -64,6 +64,8 @@
   - [GitHub](https://github.com/rogeraabbccdd/Discordbot-Zack)
 - kiwawa
   - [GitHub](https://github.com/CA-Lee/kiwawa)
+- leetcodeBot: 管理discord群組leetcode讀書會的小工具
+  - [GitHub](https://github.com/davidleitw/leetcodeBOT)
 
 # 開源專案(Open Source)
 
@@ -115,6 +117,7 @@
 
 - [discord.js](https://discord.js.org/#/)
 - [discord.py](https://discordpy.readthedocs.io/en/latest/index.html)
+- [discordgo](https://github.com/bwmarrin/discordgo)
 
 ## AI 相關 (Artificial Intelligence Realted)
 
