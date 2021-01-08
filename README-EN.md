@@ -9,7 +9,7 @@
 - [Chatbot Developer Taiwan](https://www.facebook.com/groups/chatbot.tw)
 - [LINE Developers Group Taiwan](https://www.facebook.com/groups/linebot/)
 - [Facebook Developer Circle: Taipei](https://www.facebook.com/groups/DevCTaipei/)
-- [Telegram 機器人應用交流 Bot Discuss](https://t.me/joinchat/Bosd1z3ENpG7cPjLw3qmYQ)
+- [Telegram Chatbot Discussion](https://t.me/joinchat/Bosd1z3ENpG7cPjLw3qmYQ)
 
 # Platform
 
@@ -49,7 +49,7 @@
   - [Article](https://medium.com/elfkd)
 - kiwawa
   - [GitHub](https://github.com/CA-Lee/kiwawa)
-- 易 RP
+- Yi RP
   - [GitHub](https://github.com/rogeraabbccdd/line-erp)
 
 ## Facebook
@@ -127,7 +127,7 @@
 
 ## IronMan
 
-- [Everyone can built a 卡米狗, if one determained. series](https://ithelp.ithome.com.tw/users/20107309/ironman/1253)
+- [Everyone can built a Kamigo, if one determained. series](https://ithelp.ithome.com.tw/users/20107309/ironman/1253)
 - [Use Modern Web technology to built Chat APP. series](https://ithelp.ithome.com.tw/users/20103630/ironman/2798)
 - [ Step by step, walk you through AWS & LINE API to the application usage of Serverless API. series](https://nijialin.com/2019/10/20/%E9%90%B5%E4%BA%BA%E8%B3%BD-%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8/)
 - [Five minutes a day. LINE API in your grasp. series](https://ithelp.ithome.com.tw/users/20111805/ironman/2199)
@@ -141,12 +141,12 @@
 - [The Best Practice Of LIFF](https://medium.com/@EtrexKuo/the-best-practice-of-liff-fd89f2e612fc)
 - [Connect Google Analytics at LINE Bot](https://hackmd.io/@taichunmin/slide-coscup-2020?fbclid=IwAR3KoozsbjpRk_MxUcZDvwQKlqfxOZNNhNxw3t-O99zuLsT5FAjdA7_9KsU)
 - [LINE Bot design guide](https://docs.google.com/presentation/d/1PlUMItXtx3vTRa2US1kE1-Nr11GwqIePQoBN7IeptHE/edit#slide=id.p)
-- [Hand-On Labs - LineBotSDK 實作手札](https://github.com/isdaviddong/HOL-LineBotSDK)
+- [Hand-On Labs - LineBotSDK implementation](https://github.com/isdaviddong/HOL-LineBotSDK)
 - [How to Develop a LINE Chatbot in a Decentralized Way](https://diode.io/diode/How-Diode-Allows-Engineers-to-Develop-LINE-Chatbots-in-a-Decentralized-Way-20252/)
 
 # Books
 
-- [Everyone can built a 卡米狗: Built your own LINE Chatbot from scratch.](https://www.tenlong.com.tw/products/9789864342938?list_name=srh)
+- [Everyone can built a Kamigo: Built your own LINE Chatbot from scratch.](https://www.tenlong.com.tw/products/9789864342938?list_name=srh)
 - [Develope combat of LINE Bot and Artificial Intelligence Rekognition. | Use C# and Azure Cognitive Services](https://www.tenlong.com.tw/products/9789865022662)
 - [Develope combat of LINE bot conversation Chatbot & Artificial Intelligence Rekognition](https://www.pubu.com.tw/ebook/103305)
 - [Built a stick secretary. | Chatbot x Web Crawler & NoSQL x Python combined application in practice.](http://books.gotop.com.tw/v_ACN034300)
