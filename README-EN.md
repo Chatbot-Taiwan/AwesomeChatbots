@@ -143,6 +143,7 @@
 - [LINE Bot design guide](https://docs.google.com/presentation/d/1PlUMItXtx3vTRa2US1kE1-Nr11GwqIePQoBN7IeptHE/edit#slide=id.p)
 - [Hand-On Labs - LineBotSDK implementation](https://github.com/isdaviddong/HOL-LineBotSDK)
 - [How to Develop a LINE Chatbot in a Decentralized Way](https://diode.io/diode/How-Diode-Allows-Engineers-to-Develop-LINE-Chatbots-in-a-Decentralized-Way-20252/)
+- [Develop a Screen Bullets with LINE Chatbot](https://nijialin.com/2021/01/11/screen-bullet-line-bot/)
 
 # Books
 
