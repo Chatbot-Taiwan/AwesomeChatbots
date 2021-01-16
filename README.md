@@ -146,13 +146,14 @@
 - [LINE Bot 設計模式](https://docs.google.com/presentation/d/1PlUMItXtx3vTRa2US1kE1-Nr11GwqIePQoBN7IeptHE/edit#slide=id.p)
 - [Hand-On Labs - LineBotSDK 實作手札](https://github.com/isdaviddong/HOL-LineBotSDK)
 - [How to Develop a LINE Chatbot in a Decentralized Way](https://diode.io/diode/How-Diode-Allows-Engineers-to-Develop-LINE-Chatbots-in-a-Decentralized-Way-20252/)
+- [開發結合 LINE Chatbot 的簡易彈幕系統](https://nijialin.com/2021/01/11/screen-bullet-line-bot/)
 
 # 書籍
 
 - [人人可作卡米狗：從零打造自己的 LINE 聊天機器人](https://www.tenlong.com.tw/products/9789864342938?list_name=srh)
 - [LINE Bot 與人工智慧辨識開發實戰｜使用 C# 與 Azure Cognitive Services](https://www.tenlong.com.tw/products/9789865022662)
 - [Line Bot 對談機器人 & 人工智慧辨識 開發實戰](https://www.pubu.com.tw/ebook/103305)
-- [打造股市小秘書｜聊天機器人 x 網路爬蟲 x NoSQLxPython 整合應用實務](http://books.gotop.com.tw/v_ACN034300)
+- [打造股市小秘書｜聊天機器人 x 網路爬蟲 x NoSQL x Python 整合應用實務](http://books.gotop.com.tw/v_ACN034300)
 
 # Public URLs
 
