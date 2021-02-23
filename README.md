@@ -23,6 +23,9 @@
 
 # Chatbots
 
+<details>
+  <summary>LINE</summary>
+  
 ## LINE
 
 - [圖奇獸 Twitch Bot](https://line.me/R/ti/p/%40eae1476b)
@@ -52,10 +55,25 @@
 - 易 RP
   - [GitHub](https://github.com/rogeraabbccdd/line-erp)
 
+</details>
+
+<details>
+  <summary>Facebook</summary>
+  
 ## Facebook
 
+</details>
+
+<details>
+  <summary>Telegram</summary>
+  
 ## Telegram
 
+</details>
+
+<details>
+  <summary>Discord</summary>
+  
 ## Discord
 
 - [Steam 查價 Deals Line Bot](https://discordapp.com/oauth2/authorize?client_id=634902541687324702&scope=bot&permissions=28832)
@@ -66,6 +84,7 @@
   - [GitHub](https://github.com/CA-Lee/kiwawa)
 - leetcodeBot: 管理discord群組leetcode讀書會的小工具
   - [GitHub](https://github.com/davidleitw/leetcodeBOT)
+</details>
 
 # 開源專案(Open Source)
 
@@ -74,6 +93,9 @@
 
 ## LINE
 
+<details>
+  <summary>套件(SDK)</summary>
+  
 ### 套件(SDK)
 
 - [line-bot-sdk-python](https://github.com/line/line-bot-sdk-python)
@@ -91,6 +113,8 @@
 - [line-bot-sdk-haskell](https://github.com/moleike/line-bot-sdk)
 - [linebot](https://github.com/boybundit/linebot)
 
+</details>
+
 ### Design tools
 
 - [Flex Message Simulator](https://developers.line.biz/flex-simulator/)
@@ -106,12 +130,17 @@
 - [liff-snippets](https://github.com/doggy8088/liff-snippets)
 - [vConsole-LIFF](https://github.com/polydice/vConsole-LIFF)
 
+<details>
+  <summary>Notify</summary>
+
 ### Notify
 
 - [lotify(Python)](https://github.com/louis70109/lotify)
 - [lotify(Ruby)](https://github.com/etrex/lotify)
 - [lotify(PHP)](https://github.com/eric0324/lotify)
 - [line-notify-sdk-nodejs](https://github.com/yiyu0x/line-notify-sdk-nodejs)
+
+</details>
 
 ## Discord
 
@@ -128,6 +157,9 @@
 
 # 文章(Articles)
 
+<details>
+  <summary>鐵人賽(IronMan)</summary>
+
 ## 鐵人賽(IronMan)
 
 - [只要有心，人人都可以做卡米狗 系列 ](https://ithelp.ithome.com.tw/users/20107309/ironman/1253)
@@ -139,6 +171,11 @@
 - [用 Line 聊天機器人串起多媒體系統 系列](https://ithelp.ithome.com.tw/users/20121130/ironman/3131)
 - [宅男的浪漫 - 用 .NET Core 打造 Line 婚禮聊天機器人經驗分享](https://reurl.cc/GraXX3)
 
+</details>
+
+<details>
+  <summary>LINE</summary>
+  
 ## LINE
 
 - [The Best Practice Of LIFF](https://medium.com/@EtrexKuo/the-best-practice-of-liff-fd89f2e612fc)
@@ -147,6 +184,20 @@
 - [Hand-On Labs - LineBotSDK 實作手札](https://github.com/isdaviddong/HOL-LineBotSDK)
 - [How to Develop a LINE Chatbot in a Decentralized Way](https://diode.io/diode/How-Diode-Allows-Engineers-to-Develop-LINE-Chatbots-in-a-Decentralized-Way-20252/)
 - [開發結合 LINE Chatbot 的簡易彈幕系統](https://nijialin.com/2021/01/11/screen-bullet-line-bot/)
+
+</details>
+
+<details>
+  <summary>Facebook</summary>
+</details>
+
+<details>
+  <summary>Telegram</summary>
+</details>
+
+<details>
+  <summary>Slack</summary>
+</details>
 
 # 書籍
 
