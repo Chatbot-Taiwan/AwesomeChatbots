@@ -26,8 +26,6 @@
 <details>
   <summary>LINE</summary>
   
-## LINE
-
 - [圖奇獸 Twitch Bot](https://line.me/R/ti/p/%40eae1476b)
   - [GitHub](https://github.com/louis70109/Twitch-Bot)
 - [卡米狗](https://line.me/R/ti/p/%40aab8659n)
@@ -60,22 +58,16 @@
 <details>
   <summary>Facebook</summary>
   
-## Facebook
-
 </details>
 
 <details>
   <summary>Telegram</summary>
   
-## Telegram
-
 </details>
 
 <details>
   <summary>Discord</summary>
   
-## Discord
-
 - [Steam 查價 Deals Line Bot](https://discordapp.com/oauth2/authorize?client_id=634902541687324702&scope=bot&permissions=28832)
   - [GitHub](https://github.com/rogeraabbccdd/Discordbot-Deals)
 - [財哥...檳語...](https://discord.com/oauth2/authorize?client_id=602028564333723648&scope=bot&permissions=387136)
@@ -96,8 +88,6 @@
 <details>
   <summary>套件(SDK)</summary>
   
-### 套件(SDK)
-
 - [line-bot-sdk-python](https://github.com/line/line-bot-sdk-python)
 - [line-sdk-unity](https://github.com/line/line-sdk-unity)
 - [line-bot-sdk-go](https://github.com/line/line-bot-sdk-go)
@@ -115,25 +105,33 @@
 
 </details>
 
-### Design tools
+<details>
+  <summary>設計工具</summary>
 
 - [Flex Message Simulator](https://developers.line.biz/flex-simulator/)
 - [LINE Bot Designer](https://developers.line.biz/zh-hant/services/bot-designer/)
 
-### Login
+</details>
+
+<details>
+  <summary>Login</summary>
 
 - [LINE Login MVC Example](https://github.com/isdaviddong/Line_Login_Example)
 
-#### LIFF
+</details>
+
+<details>
+  <summary>LIFF</summary>
 
 - [@line/liff](https://www.npmjs.com/package/@line/liff)
 - [liff-snippets](https://github.com/doggy8088/liff-snippets)
 - [vConsole-LIFF](https://github.com/polydice/vConsole-LIFF)
 
+</details>
+
 <details>
   <summary>Notify</summary>
 
-### Notify
 
 - [lotify(Python)](https://github.com/louis70109/lotify)
 - [lotify(Ruby)](https://github.com/etrex/lotify)
