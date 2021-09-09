@@ -85,6 +85,8 @@
 
 ## LINE
 
+- [API 狀態查詢網站](https://api.line-status.info/)
+
 <details>
   <summary>套件(SDK)</summary>
   
