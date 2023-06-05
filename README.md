@@ -26,8 +26,6 @@
 <details>
   <summary>LINE</summary>
   
-- [圖奇獸 Twitch Bot](https://line.me/R/ti/p/%40eae1476b)
-  - [GitHub](https://github.com/louis70109/Twitch-Bot)
 - [卡米狗](https://line.me/R/ti/p/%40aab8659n)
   - [介紹網站](https://www.kamigo.tw/)
 - [Steam 查價 Deals Line Bot](https://line.me/R/ti/p/%40504mcsmm)
@@ -52,6 +50,8 @@
   - [GitHub](https://github.com/CA-Lee/kiwawa)
 - 易 RP
   - [GitHub](https://github.com/rogeraabbccdd/line-erp)
+- Google 行事曆產生機
+  - [GitHub](https://github.com/louis70109/calendar-linebot)
 
 </details>
 
