@@ -1,4 +1,4 @@
-# Awesome Chatbot
+# Awesome Chatbot 😎
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/louis70109/line-notify#contributing)
@@ -221,3 +221,4 @@
 - [用 dotnet core 以命令列在跨平台環境下發送 LINE 訊息](https://youtu.be/KZZLMzd2CZo)
 - [使用.netcore 以 push 方式傳送訊息](https://youtu.be/5jsbXrw1U4w)
 - [使用 .net core 開發 LINE Bot](https://youtu.be/4sQXk1e02t8)
+- [AI for Dev Part3](https://www.youtube.com/playlist?list=PLC2_bAlyXYX-n3XJGfWVIFi_MCaCO-bJt)
